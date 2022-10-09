@@ -1,0 +1,46 @@
+.product {
+  border: 4px solid #000;
+}
+
+.head-text {
+  background-color: #f7f7f7;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 22px;
+}
+.price {
+  font-size: 25px;
+}
+
+.offer {
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #777;
+  font-weight: bold;
+}
+
+.info-link:link,
+.info-link:visited {
+  color: black;
+}
+
+.info-link:link:hover {
+  text-decoration: none;
+}
+
+.list-items {
+  list-style: square;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  border: none;
+  text-transform: uppercase;
+  font-size: 22px;
+  font-weight: bold;
+}
+.button:hover {
+  background-color: white;
+  color: black;
+}
